@@ -9,11 +9,10 @@ Lab 5 focuses on understanding and configuring **UART communication** and **ADC 
 ---
 
 ## Demonstration and Report
-link 1
 
-link 2
+-   **[Proteus Demo Video (Google Drive)](https://drive.google.com/file/d/1462wia7un_481wpNqJGVyD1oNw9T5Gq0/view?usp=sharing)**
 
-link 3
+-   **[PDF Report (Google Drive)](https://drive.google.com/file/d/1fsb4f9F8hE8ivQaXZ-J2M6pou492CT2M/view?usp=sharing)**
 
 ---
 
